@@ -4,7 +4,7 @@
 A brief description of what this project does and who it's for
 
 
-## 🚀 About Me
+## About Me
 I'm Pravin Kumar, a data analyst skilled in Power BI, SQL, Python, data modeling, and dashboard design.
 I build clean, insight-driven analytics projects and focus on solving real business problems using data.
 
@@ -19,7 +19,7 @@ Power BI modeling (Star Schema)
 DAX measure creation
 
 Visual design & insight generation
-## 🛠 Skills
+## Skills
 
 Analytics: Power BI, Excel, Python (Pandas, NumPy, Seaborn, Matplotlib)
 
@@ -42,6 +42,6 @@ Tools: Power BI, SQL, Power Query, DAX
 Key Areas: Trends, KPIs, Category analysis, Product insights, CLV segmentation, Shipping efficiency
 
 Link: [Sales Analysis](https://github.com/Pravin-Kumar-D/Sales-Analysis.git)
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pravin-kumar-dharmarajan-4630661a7)
+## Links
+[Linkedin](www.linkedin.com/in/pravin-kumar-dharmarajan-4630661a7)
 
