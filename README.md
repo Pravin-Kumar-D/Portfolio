@@ -41,7 +41,7 @@ Tools: Power BI, SQL, Power Query, DAX
 
 Key Areas: Trends, KPIs, Category analysis, Product insights, CLV segmentation, Shipping efficiency
 
-Link: 
+Link: [Sales Analysis](https://github.com/Pravin-Kumar-D/Sales-Analysis.git)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pravin-kumar-dharmarajan-4630661a7)
 
