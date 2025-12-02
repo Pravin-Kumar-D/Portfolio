@@ -1,8 +1,6 @@
 
 # Portfolio
 
-A brief description of what this project does and who it's for
-
 
 ## About Me
 I'm Pravin Kumar, a data analyst skilled in Power BI, SQL, Python, data modeling, and dashboard design.
